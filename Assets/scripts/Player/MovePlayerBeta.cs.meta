@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e260031c9bd14c649a87d19f8b585b99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GroundCheck: {instanceID: 0}
+  - MyCamera: {instanceID: 0}
+  - pos: {fileID: 11400000, guid: c79bbf6486ee8de488d89e338bcb9434, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3753 @@
+fileFormatVersion: 2
+guid: aa3198a954e596f4f87f6866c9066219
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exp-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 432
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8d5020f68e664685df8333e1d9c4b
+      internalID: 224186210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 950
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405bd2c7518979949902f11628e3bf63
+      internalID: -449320026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 949
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a0b3047ea5ef40994b20d92483714
+      internalID: -1729723006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 950
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52140e9ac99c917439d7b20a7137f2bf
+      internalID: 38847573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_4
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 950
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f983526dd80db54999711f6721837b3
+      internalID: -562926035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 947
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aeceeccce46d346aec954d4477916e
+      internalID: 1284251058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 948
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d7bc9e4d97af74ba9055e9b7abe0f0
+      internalID: 1010350186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 948
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce685d0d03a1f740803185a5037015b
+      internalID: 738279877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 946
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c3ad2b181b24d45a25a174a133df22
+      internalID: 1676733354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_9
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 945
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581eb2bbb91db3145a102769b8d53bcf
+      internalID: 318804288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 867
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397cefede150b894aa575b9c65628b35
+      internalID: -825564635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 865
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44317a8c6633a0458ab726ec63f4961
+      internalID: 2107115906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 868
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de64273ce1b41468a7866dd1141266
+      internalID: 690542052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 868
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ba9077898809448cad5002de1062b
+      internalID: -1694353797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 860
+        width: 155
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6b139c6552f7c46a1bd00cd3063e74
+      internalID: 1259282475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 865
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422a57c792a498469f394bbebcf769b
+      internalID: 1609016534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 866
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac76fe0b9ea9c4a82f8994e689e0c8
+      internalID: 257742848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 866
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ccc05aafc5d554db8fca2681b8606e
+      internalID: 81758986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_18
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 863
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e4e0a8b4f038419f1c7819e7053c1
+      internalID: 625011929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_19
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 862
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4047110663944997f798d33c956a5
+      internalID: 785639656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 863
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f0e4cfd2a2fa4da458820416d3380
+      internalID: -232611648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 863
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd8dc229ee60e40a3c7f628b3c6f4a
+      internalID: 1795044806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 862
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22735e3cca4366042ab576f680954c4b
+      internalID: -1370678140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_23
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 862
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1724ceb57a798d4192b6386c4e71b35
+      internalID: -2003606657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_24
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 862
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25de51f98e96e9843b5f9f07957c59a0
+      internalID: -313861748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 778
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd1a77a0c98ec48aabc7b35efb020c
+      internalID: -1471547896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 782
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece3e878ccf1cb459e939071ae75a91
+      internalID: 2113619908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 778
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe954783e40f54b821d0c4eb7d4c99
+      internalID: 1424495480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 780
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6885b0c4addff40a0df983f3ad6ab3
+      internalID: -1732326776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 780
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7e2f764be43b64fa2744815b67bcae
+      internalID: -878619745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 780
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf84230bc81d042927abcd78bc91f8
+      internalID: -1993365088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 780
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0e475538299449b1ced58fe8ce7d7
+      internalID: 209425270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 778
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce3d9dce44173442b2ce2ec28076d25
+      internalID: 119571639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 777
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb8d2d0a4eda747a45ec4eebf9d9f1
+      internalID: -1657004829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_34
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 777
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1a92b60eddcf4bbf3a7adec6354f1
+      internalID: -437355925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_35
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 776
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237daf6107f908143bc1c6567bdfa054
+      internalID: -536836550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 776
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652309c4b67f234d911a0f8b29bd573
+      internalID: -1346260695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_37
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 775
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931007626a9cc0d4f985d9b1508936ff
+      internalID: -1714056547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_38
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 776
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a956a22208824487ccb0a84ecdf4d
+      internalID: 1915282290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_39
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 775
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026059d2703ebc4891a84d8320f0a86
+      internalID: 515297666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_40
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 776
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289500b743039f6439da4f2595d3c91c
+      internalID: -490795944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_41
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 775
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e6b0b029c61064db7890991bdca6c2
+      internalID: -2107490262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_42
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 776
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a63d537d73da45bfb9ecf866c5cc5
+      internalID: -1710118892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 694
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916f09839740fc499a5ebecc055cd93
+      internalID: 1405384265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 694
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9cb5f3257792b4d84114a5628c6e2b
+      internalID: -472400946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 694
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ab9be0683acfa4cb327992dbb0dad9
+      internalID: -921903391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 692
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c420e64b412b124fa21948d77018f49
+      internalID: 263685530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 690
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5a867454036c44b5a37f09f00d394
+      internalID: 1984238081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 693
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b874a818d885d46ad8361c3d13d124
+      internalID: 2126087552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_49
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 689
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170533a3c6eaa0a4a85e25d422dfe5a6
+      internalID: -69981303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_50
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 691
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c0db201d9e6b44eb64d1c66c52c5b1
+      internalID: -287869317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_51
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 686
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce80c3720530cb48aee347d256eacf8
+      internalID: -1304349556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_52
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 686
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c3f7a63b56a04594b38ff13b94fad
+      internalID: 1265791725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_53
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 685
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdacd4aeb849594a9a41586a01a5a93
+      internalID: 484461983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_54
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 680
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329d20ed958a5b4184ef4da1359d023
+      internalID: -1613329386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_55
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 680
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9bda7f02332014a9ac4dde47855478
+      internalID: 1008586956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_56
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 680
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d57ac6ea55caf940a3b9ec4bfbadab8
+      internalID: -126725377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_57
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 680
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd8c07feb78c0c409a5fd09f95e61e4
+      internalID: 1731988144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_58
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 680
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ae902a33d4bd49aa18c0a4eb5b8da
+      internalID: 1005353817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 732
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98463ce5fd2de545ad23789f2ca9452
+      internalID: -721963020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_60
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 680
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933bfc0f34da4fa40aa6756b021468ad
+      internalID: 1497178070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_61
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 681
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31369aebef568a41b05b93e1ff2c9b6
+      internalID: 1699622165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 605
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd847f998d5234cb30dc00e62ab8c2
+      internalID: 864934359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 605
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c56a79c4f1844eb3c29c016ea046f
+      internalID: -1482342330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_64
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 678
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e9fe156a18d3a44bc03f3502be62e3
+      internalID: -697012432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 605
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af41d732b5a2dd41862475e18a206f1
+      internalID: 622649267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 605
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715b373ec2633541869779b88ecc4a4
+      internalID: -960865227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 604
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d59ea52e8b77448a8f1e9f629d9d3b
+      internalID: 1834393429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_68
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 604
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a429ad22167490640a72df2cd71adfd5
+      internalID: -864662842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_69
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 604
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b4dd6e531a2f4fb3398de6e40b5c6
+      internalID: -2025042889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_70
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 595
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4d0e3bccbd88498f95082bb0a2604
+      internalID: 1863473106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_71
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 593
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc9dace5291e24b81255ae34439877
+      internalID: -1089491517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_72
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 593
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d9baba275e4c4e89039e557b977d2
+      internalID: 383280486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_73
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 590
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b5b1c682b5da49a493a510ad93b0d
+      internalID: -2103100107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_74
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 589
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b85623165ae6e4faeba8a7e91fdc1f
+      internalID: 1052189364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_75
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 589
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a2c992d9947e418c89ebe496e64ca
+      internalID: -18570891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_76
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 588
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0d9694211574646b7d0e2cdc16b4f9
+      internalID: -559308900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_77
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 587
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805750c41f2512243a56acfab729085f
+      internalID: -394229803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_78
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 588
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016141470c32f43488d1fce9c215a4c9
+      internalID: 994311508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_79
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 588
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f566d71848e544a080c9442272c81
+      internalID: -1721788183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_80
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 587
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c5d74eb3c9fa4189eac40e34f1e01
+      internalID: -1358633172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 587
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad994b17fb50cae4eb91faf1c68cc973
+      internalID: 923232871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_82
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 587
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fabfde31271216478291a83ef0de30d
+      internalID: 424851126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_83
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 587
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c52d61e960fa224cade76574117f451
+      internalID: -339410619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 510
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd58413c236ddf4d9524be273ecdc41
+      internalID: -1357401451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 510
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8d8baa4b3451b4ea3fbd63c9347d4c
+      internalID: -2015064103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_86
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 511
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3c749e60ff454387e23b1f5b7a91a
+      internalID: 1982603903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 513
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33915a6c55ef1b7439f230c021244782
+      internalID: -1373392729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_88
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 513
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44501fbf6e5bc0048908d35b1af5541c
+      internalID: -1239468053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_89
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 513
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9d639d859aa344be816d80385775d
+      internalID: -4758373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_90
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 513
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5f0f14dd120fb48bf621ff8ba96997
+      internalID: -1545654314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 504
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f962da31518490948aad18438e6d1603
+      internalID: -674304570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_92
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 505
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ab778423b7ce469695907014abbc2
+      internalID: -1212157409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_93
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 503
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b0180d9c9cbed43936b0669d99222a
+      internalID: -1974353145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_94
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 503
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d79dc520749d41a4bccffbb3ce828
+      internalID: -685388515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_95
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 536
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd9d61a3e1ed084da4c5efd8a68ce65
+      internalID: 585456748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_96
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 536
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7247381b8d4fe674aa138b63b104737e
+      internalID: 786900498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_97
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 536
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ccef54b4cf754c98342a1d2157c0c
+      internalID: 1370748756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_98
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 536
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a8f690af173ba42a405a929aa100ac
+      internalID: 1938742717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_99
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 536
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074acb28b67c7d4f8533cc14607780a
+      internalID: 1289119445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_100
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 533
+        width: 218
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280eccc4d80e692419c4445734094823
+      internalID: 270421425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_101
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 503
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a41961bd8afa29488bd02c85ba14005
+      internalID: -1156382857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_102
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 502
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12be55cef50c78408500613f12db1b2
+      internalID: 1151490794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_103
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 502
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f10678466115f48b3e3cf6d53195a1
+      internalID: -209483298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_104
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 502
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff788a78ba3762489522365d6a778f5
+      internalID: -2052195925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_105
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 502
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea123e3d23700dc429c014732d68a807
+      internalID: -1681260132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_106
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 480
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439a73a8a82baee4f967664f743fd950
+      internalID: -154216206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_107
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 479
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1016c27c58beb734ca045cf9904c38ca
+      internalID: -394224387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_108
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 479
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed2e0c35f386948b65292939eb113a
+      internalID: -2109744595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 414
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0ddb076b34244588423e754c4719a
+      internalID: -580219564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_110
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 414
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786e9c98872c214429eab55fa2c0f674
+      internalID: -665633925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 416
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eddc6bed8bd8794db85c89702a714e4
+      internalID: 538974124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_112
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 419
+        width: 187
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e2b288958c3634cb8213540021933b
+      internalID: -1594752421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_113
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 419
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031596b5cb1e4a24bbfe3e22af5cea34
+      internalID: 975422145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_114
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 410
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062dd410551179d47bec6b4fd8d108b0
+      internalID: -218290237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_115
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 409
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec1af54f05ba74fba098f899406787
+      internalID: 7106829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_116
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 410
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cd96deda64594092bc1d316a0af95
+      internalID: -1167099474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_117
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 410
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4661df7ffa2e7f498189f1b87217fac
+      internalID: -2030931235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_118
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 411
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309ef621be6e034aab9a3b9dc289679
+      internalID: -960963172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_119
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 448
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4815600debe96b4da15792bc4bfde57
+      internalID: -833546310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_120
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 447
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42acfa40e03635e469242c7687b05c26
+      internalID: -1531022900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_121
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 448
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95277ccf1c7e31c4e93ed0cdaaaaa286
+      internalID: -1604014136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_122
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 438
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fee00a8575af34fa2d6410e5465b44
+      internalID: -1160408081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_123
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 442
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b7d0b3ca9aec41a5081d623eebadf
+      internalID: -918482030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_124
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 442
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1da9bd2863c64597b474e9c2ef15d
+      internalID: 309451041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_125
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 442
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41d59f8768fdbd4985e48e4317629f9
+      internalID: 2120319981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_126
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 442
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca08024c243dc4cad1d370228367da
+      internalID: 1334172935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_127
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 442
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b811cfbb8b9e8c48abb66d1f93c61dc
+      internalID: -657135782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_128
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 442
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88e6591b11b944eb1c765f78edd14a
+      internalID: 1381011174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_129
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 409
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd32e0d7a7bb8b40afe1e9e1bbdd895
+      internalID: -557745887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_130
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ee6660dade1943bc1d1779f5f5611
+      internalID: -1317244388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_131
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 409
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c85206e292361419c824df05b7947c
+      internalID: -546227694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_132
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 407
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e1a70e6c5fae4f852177a2e716f6b
+      internalID: -95855745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_133
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 408
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bbda8810a1f9347aceb6eac76782b2
+      internalID: -207547515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_134
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 407
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b595a53641788c5459dc1d97b19c4dc1
+      internalID: 957012169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_135
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 408
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413796f70b68cdc489a9020b9818c4dd
+      internalID: 892820741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_136
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 407
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da93980e31d7014aa93cf4fa9337640
+      internalID: 2067628238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_137
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 407
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01d1b620b25e5e4690d133a4e1a1819
+      internalID: 922096156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_138
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 407
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce7f03174877f40a5edaf164860fd6
+      internalID: 66400332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 428
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444aa997f2a12134ab1fd3255d4be7c3
+      internalID: -1570631628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_140
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 321
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d853acc9f37664e885e8d8af986221
+      internalID: -1187263443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_141
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 321
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926156aa559fb14c9de78066ed6a4f5
+      internalID: 69086210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_142
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 321
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064b9fddc0e4ff4b8b5c27afb2428ea
+      internalID: -1742783163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_143
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 320
+        width: 202
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f88886315721784496c5bc777a09354
+      internalID: 853833050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_144
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 354
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79edd5f9ec0904147b56917f346cd029
+      internalID: 1675251933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_145
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd24146f7aa01004ca95ce0878bf1718
+      internalID: 2009483055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_146
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 356
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b7dd0daf9c450428a4fde970148ffb
+      internalID: -396464751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_147
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 360
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057f1980dc2fc34198aac49676cded0
+      internalID: -157032161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_148
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 354
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3aa6ed7de54594eb58cf6657386102
+      internalID: 679598456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_149
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 343
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455a77c419af266458b2aa7b83e9f8e2
+      internalID: -1495596292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_150
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 337
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ab293195a14746b5f68a18f4e92de
+      internalID: -1020142816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_151
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 348
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bebb08eab1296240943ab8fdd31233b
+      internalID: -2098891457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_152
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 329
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff55c02cbde71d4791e6430d46111af
+      internalID: -1667952665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_153
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 331
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56d985e7745064b95fdd2c66a6484a
+      internalID: 219837194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_154
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 320
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be01feaf6b14ec843b25b0e5876383a3
+      internalID: 1646535878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_155
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 332
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc88611c04c37429b494c54248baab
+      internalID: -1643934595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_156
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 312
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f3274ab5c9fc643baf8c14010afd38
+      internalID: 2081573440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_157
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 311
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd11c2b52b85e5449bf6ecb70b080b5
+      internalID: -1912670273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_158
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 317
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1ce99cac2ce046b08cc77868b8896
+      internalID: 1484299927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_159
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 306
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6822923b13e2f4a8ca055dea4bf0d3
+      internalID: 249459614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_160
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 215
+        width: 456
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b4738d3ae4e645a4b6ebf509e2566
+      internalID: 1566170215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_161
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 214
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66025e051ac9c8c4ebf5ecbb8d6c9d77
+      internalID: 1210363649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_162
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 106
+        width: 483
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe98d5c733f72fe489a24c8499a4efc3
+      internalID: 1133249969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_163
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1
+        width: 482
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749f9fd0a59d2a4f80f87189629ee21
+      internalID: -832882852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp-2_164
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f2fbf3d8518d4685ab1e500d09f05
+      internalID: 1405266828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      exp-2_0: 224186210
+      exp-2_1: -449320026
+      exp-2_10: -825564635
+      exp-2_100: 270421425
+      exp-2_101: -1156382857
+      exp-2_102: 1151490794
+      exp-2_103: -209483298
+      exp-2_104: -2052195925
+      exp-2_105: -1681260132
+      exp-2_106: -154216206
+      exp-2_107: -394224387
+      exp-2_108: -2109744595
+      exp-2_109: -580219564
+      exp-2_11: 2107115906
+      exp-2_110: -665633925
+      exp-2_111: 538974124
+      exp-2_112: -1594752421
+      exp-2_113: 975422145
+      exp-2_114: -218290237
+      exp-2_115: 7106829
+      exp-2_116: -1167099474
+      exp-2_117: -2030931235
+      exp-2_118: -960963172
+      exp-2_119: -833546310
+      exp-2_12: 690542052
+      exp-2_120: -1531022900
+      exp-2_121: -1604014136
+      exp-2_122: -1160408081
+      exp-2_123: -918482030
+      exp-2_124: 309451041
+      exp-2_125: 2120319981
+      exp-2_126: 1334172935
+      exp-2_127: -657135782
+      exp-2_128: 1381011174
+      exp-2_129: -557745887
+      exp-2_13: -1694353797
+      exp-2_130: -1317244388
+      exp-2_131: -546227694
+      exp-2_132: -95855745
+      exp-2_133: -207547515
+      exp-2_134: 957012169
+      exp-2_135: 892820741
+      exp-2_136: 2067628238
+      exp-2_137: 922096156
+      exp-2_138: 66400332
+      exp-2_139: -1570631628
+      exp-2_14: 1259282475
+      exp-2_140: -1187263443
+      exp-2_141: 69086210
+      exp-2_142: -1742783163
+      exp-2_143: 853833050
+      exp-2_144: 1675251933
+      exp-2_145: 2009483055
+      exp-2_146: -396464751
+      exp-2_147: -157032161
+      exp-2_148: 679598456
+      exp-2_149: -1495596292
+      exp-2_15: 1609016534
+      exp-2_150: -1020142816
+      exp-2_151: -2098891457
+      exp-2_152: -1667952665
+      exp-2_153: 219837194
+      exp-2_154: 1646535878
+      exp-2_155: -1643934595
+      exp-2_156: 2081573440
+      exp-2_157: -1912670273
+      exp-2_158: 1484299927
+      exp-2_159: 249459614
+      exp-2_16: 257742848
+      exp-2_160: 1566170215
+      exp-2_161: 1210363649
+      exp-2_162: 1133249969
+      exp-2_163: -832882852
+      exp-2_164: 1405266828
+      exp-2_17: 81758986
+      exp-2_18: 625011929
+      exp-2_19: 785639656
+      exp-2_2: -1729723006
+      exp-2_20: -232611648
+      exp-2_21: 1795044806
+      exp-2_22: -1370678140
+      exp-2_23: -2003606657
+      exp-2_24: -313861748
+      exp-2_25: -1471547896
+      exp-2_26: 2113619908
+      exp-2_27: 1424495480
+      exp-2_28: -1732326776
+      exp-2_29: -878619745
+      exp-2_3: 38847573
+      exp-2_30: -1993365088
+      exp-2_31: 209425270
+      exp-2_32: 119571639
+      exp-2_33: -1657004829
+      exp-2_34: -437355925
+      exp-2_35: -536836550
+      exp-2_36: -1346260695
+      exp-2_37: -1714056547
+      exp-2_38: 1915282290
+      exp-2_39: 515297666
+      exp-2_4: -562926035
+      exp-2_40: -490795944
+      exp-2_41: -2107490262
+      exp-2_42: -1710118892
+      exp-2_43: 1405384265
+      exp-2_44: -472400946
+      exp-2_45: -921903391
+      exp-2_46: 263685530
+      exp-2_47: 1984238081
+      exp-2_48: 2126087552
+      exp-2_49: -69981303
+      exp-2_5: 1284251058
+      exp-2_50: -287869317
+      exp-2_51: -1304349556
+      exp-2_52: 1265791725
+      exp-2_53: 484461983
+      exp-2_54: -1613329386
+      exp-2_55: 1008586956
+      exp-2_56: -126725377
+      exp-2_57: 1731988144
+      exp-2_58: 1005353817
+      exp-2_59: -721963020
+      exp-2_6: 1010350186
+      exp-2_60: 1497178070
+      exp-2_61: 1699622165
+      exp-2_62: 864934359
+      exp-2_63: -1482342330
+      exp-2_64: -697012432
+      exp-2_65: 622649267
+      exp-2_66: -960865227
+      exp-2_67: 1834393429
+      exp-2_68: -864662842
+      exp-2_69: -2025042889
+      exp-2_7: 738279877
+      exp-2_70: 1863473106
+      exp-2_71: -1089491517
+      exp-2_72: 383280486
+      exp-2_73: -2103100107
+      exp-2_74: 1052189364
+      exp-2_75: -18570891
+      exp-2_76: -559308900
+      exp-2_77: -394229803
+      exp-2_78: 994311508
+      exp-2_79: -1721788183
+      exp-2_8: 1676733354
+      exp-2_80: -1358633172
+      exp-2_81: 923232871
+      exp-2_82: 424851126
+      exp-2_83: -339410619
+      exp-2_84: -1357401451
+      exp-2_85: -2015064103
+      exp-2_86: 1982603903
+      exp-2_87: -1373392729
+      exp-2_88: -1239468053
+      exp-2_89: -4758373
+      exp-2_9: 318804288
+      exp-2_90: -1545654314
+      exp-2_91: -674304570
+      exp-2_92: -1212157409
+      exp-2_93: -1974353145
+      exp-2_94: -685388515
+      exp-2_95: 585456748
+      exp-2_96: 786900498
+      exp-2_97: 1370748756
+      exp-2_98: 1938742717
+      exp-2_99: 1289119445
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
